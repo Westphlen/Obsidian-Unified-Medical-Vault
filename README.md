@@ -4,10 +4,6 @@
   - 一个由小红书博主阅水君发起的 Obsidian 协作项目
   - An Obsidian medical collaborative project launched by Yue Shuijun (RedNote)
 
-- **描述** Description
-  - 一个由小红书博主阅水君发起的 Obsidian 协作项目
-  - An Obsidian medical collaborative project launched by Yue Shuijun (RedNote)
-
 ## 联系我们 Contact Us
 
 - 电子邮箱 Email
