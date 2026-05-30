@@ -4,7 +4,16 @@
   - 一个由小红书博主阅水君发起的 Obsidian 协作项目
   - An Obsidian medical collaborative project launched by Yue Shuijun (RedNote)
 
+- **描述** Description
+  - 一个由小红书博主阅水君发起的 Obsidian 协作项目
+  - An Obsidian medical collaborative project launched by Yue Shuijun (RedNote)
 
+## 联系我们 Contact Us
+
+- 电子邮箱 Email
+  - tingtft@outlook.com
+  - u202313762@hust.edu.cn
+- QQ群 QQ Group 176105897
 
 # 介绍 Introduction
 
@@ -81,12 +90,5 @@ This database holds infinite possibilities. Obsidian's rich plugin ecosystem giv
 Ironically, the flashiest feature—the bidirectional links—often only provide emotional value. Of course, without that emotional value, I would never have kept going.
 
 In short, use your imagination to unlock its full potential!
-
-
-## 联系我们 Contact Us
-
-- 电子邮箱 Email
-  - tingtft@outlook.com
-  - u202313762@hust.edu.cn
 
 (The translation is provided by AI)
